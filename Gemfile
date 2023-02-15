@@ -2,6 +2,6 @@
 
 source 'https://rubygems.org'
 
-gem 'httparty'
-gem 'sinatra'
+gem 'httparty', '>= 0.21.0'
+gem 'sinatra', '>= 2.2.3'
 gem 'thin'
